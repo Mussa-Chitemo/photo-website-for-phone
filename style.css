@@ -315,6 +315,7 @@ footer .copyright-container {
           height: 250px;
           padding: 10px 2px;
           background: #13124f;
+          z-index: 1;
      }
      .nav-bar .nav-link.active {
           right: 0px;
